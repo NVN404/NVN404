@@ -5,18 +5,20 @@
 
 **CS undergrad** learning about **blockchain**, **smart contracts**, and **security**.  
 I love building things , breaking things, and dive into new tech in trend ! 🏗️ + 🔨 = ☯️
+security researcher and buildguidl batch 12 graduate
 
 ---
 
 ### :shipit: I’m currently working on:
 - Building decentralized applications (dApps) using **Solidity** and **React**.
 - Exploring **blockchain** technology and **smart contract** development and security.
+- learning rust 
 ---
 
 ### :shipit: I’m currently learning:
 - More about **security** in blockchain applications.
 - Advanced concepts in **Python** and **C++** for system-level programming.
-- development (once in full moon atleast).
+- development in web 3.
   
  ![Excited](https://media3.giphy.com/media/mqeSBpYG2rp8A/200.webp?cid=790b7611lrse574qukl55c3t02tffai1850aeb9t2tkengai&ep=v1_gifs_search&rid=200.webp&ct=g)
 
