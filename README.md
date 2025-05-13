@@ -15,7 +15,6 @@ security researcher and buildguidl batch 12 graduate
 - Open-source initiatives.
 - teaming up for any events such as audits , ctf's and hackathons .
 
-![really](https://media.tenor.com/rV4BERtCh4MAAAAM/eren-aot-s4.gif)
 
 ---
 
