@@ -2,16 +2,16 @@
 ![hello](https://media.tenor.com/XKqcJyUCWYkAAAAj/hello-minion.gif)
 
 
-
-**CS undergrad** learning about **web3 development**, **smart contract development**, and **security**.  
+# 
+**CS undergrad** learning about **web and app development**, **smart contract development**, and **security** in **.sol & sol**.  
 I love building things , breaking things, and dive into new tech in trend ! 🏗️ + 🔨 = ☯️.
-security researcher and buildguidl batch 12 graduate
+security researcher , buildguidl batch 12 graduate , solana turbin3 Q2 builder cohort grad .
 
 
 ---
 
 ### :shipit: I’m looking to collaborate on:
-- **Blockchain**-related projects.
+- **Blockchain** related projects.
 - Open-source initiatives.
 - teaming up for any events such as audits , ctf's and hackathons .
 
