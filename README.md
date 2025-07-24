@@ -1,4 +1,4 @@
-# hey welcome :shipit: , HTTP 418 ! 
+# :shipit:  HTTP 418 ! 
 ![hello](https://media.tenor.com/XKqcJyUCWYkAAAAj/hello-minion.gif)
 
 
