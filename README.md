@@ -3,7 +3,7 @@
 
 
 # 
-**CS undergrad** learning about **web and app development**, **smart contract development**, and **security** in **.sol & sol**.  
+learning about **web and app development**, **smart contract development**, and **security** in **.sol & sol**.  
 I love building things , breaking things, and dive into new tech in trend ! 🏗️ + 🔨 = ☯️.
 security researcher , buildguidl batch 12 graduate , solana turbin3 Q2 builder cohort grad .
 
